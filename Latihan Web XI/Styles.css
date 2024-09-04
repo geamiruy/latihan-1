@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Styling khusus untuk halaman login */
+.container {
+    max-width: 400px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-control {
+    border-radius: 5px;
+}
+
+.btn-primary {
+    width: 100%;
+}
